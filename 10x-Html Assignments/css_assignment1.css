@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+   
+  }
+
+ 
+  #hi {
+    font-size: 2em;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: 'sans-serif';
+    top: 50%;
+    left: 50%;
+    /*transform: translateX(-50%) translateY(-50%);*/
+
+}
+  img {
+    
+    height: 100%;
+    width: 100%;
+  }
+
+  div {
+    width: 50%;
+    height: 50%;
+    float: left;
+  }
+
+  #div1 {
+    background:  white;
+  }
+  
+  #div2 {
+    background: skyblue;
+  }
+  
+  #div3 {
+    background:  skyblue;
+  }
+  
+  #div4 {
+    background:  white;
+   margin-top: 8%;
+  }
